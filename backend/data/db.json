@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": "p1",
+      "category": "Natijalar",
+      "type": "image",
+      "title": "2025-yil bitiruvchilarimiz: 940 nafar o'quvchi DTM dan muvaffaqiyatli o'tdi",
+      "description": "Ushbu yil kursimizni tamomlagan o'quvchilarning 94% i DTM sinovidan yuqori ball bilan o'tishga muvaffaq bo'ldi.",
+      "mediaUrl": null,
+      "createdAt": "2026-06-15T08:00:00.000Z"
+    },
+    {
+      "id": "p2",
+      "category": "Sertifikat",
+      "type": "image",
+      "title": "Milliy sertifikat: 210 nafar o'quvchimiz oliy ball bilan yakunladi",
+      "description": "Milliy sertifikat natijalari e'lon qilindi — kursimiz bitiruvchilari yuqori ko'rsatkichlarni namoyish etdi.",
+      "mediaUrl": null,
+      "createdAt": "2026-04-10T08:00:00.000Z"
+    },
+    {
+      "id": "rcxCaeJL",
+      "category": "Natijalar",
+      "type": "video",
+      "title": "szfrgdthf",
+      "description": "Wergtf",
+      "mediaUrl": "/uploads/Eefd8LbPtw.MP4",
+      "createdAt": "2026-07-04T09:15:59.098Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "KSiuPJ7e",
+      "name": "assasa",
+      "phone": "900088935",
+      "createdAt": "2026-07-04T09:09:23.262Z"
+    },
+    {
+      "id": "DqGES8u_",
+      "name": "WERA",
+      "phone": "waregtrsys",
+      "createdAt": "2026-07-04T09:17:16.943Z"
+    }
+  ],
+  "stats": {
+    "students": 1540,
+    "dtmPassRate": 98,
+    "certificates": 1180,
+    "yearsExperience": 12,
+    "yearly": [
+      {
+        "yil": "2021",
+        "oquvchi": 340,
+        "sertifikat": 210,
+        "dtm": 190
+      },
+      {
+        "yil": "2022",
+        "oquvchi": 520,
+        "sertifikat": 360,
+        "dtm": 300
+      },
+      {
+        "yil": "2023",
+        "oquvchi": 780,
+        "sertifikat": 590,
+        "dtm": 470
+      },
+      {
+        "yil": "2024",
+        "oquvchi": 1120,
+        "sertifikat": 860,
+        "dtm": 690
+      },
+      {
+        "yil": "2025",
+        "oquvchi": 1540,
+        "sertifikat": 1180,
+        "dtm": 940
+      }
+    ]
+  }
+}
